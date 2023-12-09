@@ -53,6 +53,9 @@ p{
     color: #A276FF;
     border-left: 4px solid #A276FF;
 }
+#first:hover{
+    color: #F2C94C;
+}
 .aside-block li{
     padding: 20px 20px 20px 0px;
     color: #fff;
